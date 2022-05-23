@@ -27,13 +27,13 @@ If you use work from multiple MIT Licensed projects, just copy the appropriate f
 
 We use the following format for most of the licenses, although some are slightly changed in cases where the author and the copyright holder are not the same entity, or for other reasons that necessitate a change.
 
-> {name of the licensed software, if it has one}
+> {name of the licensed software}
 > 
 > This software contains files, code, and documentation from {author}
 > whose official website is located at: {website}
 > 
-> As per the license, anyone can modify (name of software} 
-> and reuse that software subject to the terms of the license. 
+> As per the license, anyone can modify and reuse {name of software} 
+> subject to the terms of the license. 
 > 
 > If you received this software from someone other than {author}, 
 > it may contain files, code, and documentation from other sources 

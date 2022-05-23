@@ -3,7 +3,7 @@ Hubzilla
 This software contains files, code, and documentation from the Hubzilla Community
 whose official website is located at: https://hubzilla.org
 
-As per the license, anyone can modify Hubzilla and reuse that software
+As per the license, anyone can modify and reuse Hubzilla
 subject to the terms of the license. 
 
 If you received this software from someone other than Hubzilla, 

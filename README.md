@@ -14,15 +14,21 @@ For example, if you use Bootstrap in your projects, you are supposed to include 
 
 If you use work from multiple MIT Licensed projects, just copy the appropriate files into your project, and you are covered. Since the names of these files don't conflict with each other, you don't have to worry about accidentally overwriting another file.
 
+## Purpose
+
+- [x] Make is easy to comply with MIT licenses.
+- [x] Make it clear that the MIT license applies to specific works.
+- [x] Serves as a handy reference if you need to find the original code again.
+
 ## Features
 
-- They have unique names so that they don't accidentally overwrite files like `LICENSE`.
-- A link (url) to the actual license file is included, if available online.
-- It includes a copy of the license in case the link (url) is not available or working.
-- The name of the software the license applies to is repeated, on purpose, for maximum clarity.
-- We don't use the generic version of the MIT License. We copy and pasted their exact version.
-- They are written in text format to allow users on any system to view it.
-- They all have a .txt exension so it can easily be opened on a variety of operating systems, some of which use extensions to identify file types.
+- [x] They have unique names so that they don't accidentally overwrite files like `LICENSE`.
+- [x] A link (url) to the actual license file is included, if available online.
+- [x] It includes a copy of the license in case the link (url) is not available or working.
+- [x] The name of the software the license applies to is repeated, on purpose, for maximum clarity.
+- [x] We don't use the generic version of the MIT License. We copy and pasted their exact version.
+- [x] They are written in text format to allow users on any system to view it.
+- [x] They all have a `.txt` exension so it can easily be opened on a variety of operating systems, some of which use extensions to identify file types.
 
 ## Default format:
 

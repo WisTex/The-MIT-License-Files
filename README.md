@@ -29,7 +29,7 @@ We use the following format for most of the licenses, although some are slightly
 
 > {name of the licensed software}
 > 
-> This software contains files, code, and documentation from {author}
+> This software contains files, code, and/or documentation from {author}
 > whose official website is located at: {website}
 > 
 > As per the license, anyone can modify and reuse {name of software} 

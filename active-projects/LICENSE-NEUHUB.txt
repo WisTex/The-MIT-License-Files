@@ -1,6 +1,6 @@
 Neuhub
 
-This software contains files, code, and documentation from the Neuhub project
+This software contains files, code, and/or documentation from the Neuhub project
 whose official website is located at: https://neuhub.org
 
 As per the license, anyone can modify and reuse Neuhub

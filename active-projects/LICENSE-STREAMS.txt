@@ -1,6 +1,6 @@
 Streams
 
-This software contains files, code, and documentation from Mike Macgirvin
+This software contains files, code, and/or documentation from Mike Macgirvin
 whose repository is located at: https://codeberg.org/streams/streams
 
 As per the readme file, anyone can modify and reuse Streams

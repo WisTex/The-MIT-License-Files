@@ -1,6 +1,6 @@
 Bootstrap
 
-This software contains files, code, and/or documentation from Bootstrap
+This software contains files and/or code from Bootstrap
 whose official website is located at: https://getbootstrap.com/
 
 As per the license, anyone can modify and reuse Bootstrap

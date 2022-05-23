@@ -49,3 +49,7 @@ We use the following format for most of the licenses, although some are slightly
 ## Script Creators
 
 Feel free to adapt this for use in your own script, and include your own version of a license file in your project.
+
+## Contributions
+
+I have included some of the software that I have used in projects. If you have others you would like to include here, you are welcome to submit them.

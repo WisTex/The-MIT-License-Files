@@ -4,7 +4,7 @@ These are files that you can include in your project to comply with the MIT lice
 
 These files also explain that the MIT license does not apply to the whole project. This allows you to combine the MIT license with other works, and still comply with the MIT license.
 
-Plus, if you are ~~lazy~~ efficient, then including these files means you don't have to maintain a giant file of licenses (unless you want to). Just add the appropriate files to a `licenses` subdirectory and you are fine.
+Plus, if you are ~~lazy~~ efficient, then including these files means you don't have to maintain a giant file of licenses (unless you want to). Just add the appropriate license files to a `licenses` subdirectory and you are fine.
 
 ## Usage
 

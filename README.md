@@ -19,6 +19,7 @@ If you use work from multiple MIT Licensed projects, just copy the appropriate f
 - They have unique names so that they don't accidentally overwrite files like `LICENSE`.
 - A link (url) to the actual license file is included, if available online.
 - It includes a copy of the license in case the link (url) is not available or working.
+- The name of the software the license applies to is repeated, on purpose, for maximum clarity.
 - We don't use the generic version of the MIT License. We copy and pasted their exact version.
 - They are written in text format to allow users on any system to view it.
 - They all have a .txt exension so it can easily be opened on a variety of operating systems, some of which use extensions to identify file types.

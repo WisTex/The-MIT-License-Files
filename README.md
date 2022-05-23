@@ -32,7 +32,7 @@ We use the following format for most of the licenses, although some are slightly
 > This software contains files, code, and documentation from {author}
 > whose official website is located at: {website}
 > 
-> As per the license, anyone can modify and reuse the software
+> As per the license, anyone can modify and reuse that software
 > subject to the terms of the license. 
 > 
 > If you received this software from someone other than {author}, 

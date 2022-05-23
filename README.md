@@ -10,7 +10,7 @@ Plus, if you are ~~lazy~~ efficient, then including these files means you don't 
 
 Just copy the appropriate files into your project, either into the main directory, or in a directory called `licenses` (or something similar).
 
-For example, if you use code from Bootstrap in your projects, you are supposed to include the MIT License from Bootstrap. In this case, you would copy the file `LICENSE-BOOTSTRAP.txt` to your project.
+For example, if you use Bootstrap in your projects, you are supposed to include the MIT License from Bootstrap. In this case, you would copy the file `LICENSE-BOOTSTRAP.txt` to your project.
 
 If you use work from multiple MIT Licensed projects, just copy the appropriate files into your project, and you are covered. Since the names of these files don't conflict with each other, you don't have to worry about accidentally overwriting another file.
 

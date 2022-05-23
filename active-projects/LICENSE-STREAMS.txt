@@ -3,8 +3,8 @@ Streams
 This software contains files, code, and documentation from Mike Macgirvin
 whose repository is located at: https://codeberg.org/streams/streams
 
-As per the readme file, anyone can modify and reuse the software from that 
-respository because it is released to the public domain or has other
+As per the readme file, anyone can modify Streams and reuse that software from 
+that respository because it is released to the public domain or has other
 OSI-approved software licenses, subject to those licenses. 
 
 If you received this software from somewhere other than the Streams repository, 

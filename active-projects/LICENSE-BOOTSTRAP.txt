@@ -3,7 +3,7 @@ Bootstrap
 This software contains files, code, and documentation from Bootstrap
 whose official website is located at: https://getbootstrap.com/
 
-As per the license, anyone can modify and reuse the software
+As per the license, anyone can modify Boostrap and reuse that software
 subject to the terms of the license. 
 
 If you received this software from someone other than Bootstrap, 

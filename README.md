@@ -48,4 +48,4 @@ We use the following format for most of the licenses, although some are slightly
 
 ## Script Creators
 
-Feel free to adapt this for use in your own script, and include your own version in your project.
+Feel free to adapt this for use in your own script, and include your own version of a license file in your project.

@@ -43,6 +43,7 @@ We use the following format for most of the licenses, although some are slightly
 > subject to the terms of the license. 
 > 
 > If you received this software from someone other than {author}, 
+> and/or this software is combined with other software,
 > it may contain files, code, and documentation from other sources 
 > that are subject to other licenses.
 > 

@@ -18,7 +18,7 @@ https://license.neuhub.org
 
 The MIT License (Expat Version)
 
-Copyright (c) 2022 WisTex TechSero Ltd. Co. 
+Copyright (c) 2022-2023 WisTex TechSero Ltd. Co. 
 
 All rights reserved.
 

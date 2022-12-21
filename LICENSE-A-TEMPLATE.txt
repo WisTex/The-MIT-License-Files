@@ -1,6 +1,6 @@
 {name of the licensed software, if it has one}
 
-This software contains files, code, and documentation from {author}
+This software contains files, code, and/or documentation from {author}
 whose official website is located at: {website}
 
 As per the license, anyone can modify and reuse the software

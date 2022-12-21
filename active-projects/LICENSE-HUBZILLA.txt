@@ -18,7 +18,7 @@ https://framagit.org/hubzilla/core/-/blob/master/LICENSE
 
 The MIT License
 
-Copyright (c) 2019 Hubzilla Community
+Copyright (c) 2019-2023 Hubzilla Community
 
 All rights reserved.
 

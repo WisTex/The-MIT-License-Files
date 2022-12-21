@@ -6,6 +6,12 @@ These files also explain that the MIT license does not apply to the whole projec
 
 Plus, if you are ~~{lazy}~~ efficient, then including these files means you don't have to maintain a giant list of licenses (unless you want to). Just add the appropriate license files to a `licenses` subdirectory and you are fine.
 
+## Purpose
+
+- [x] Make is easy to comply with MIT licenses.
+- [x] Make it clear that the MIT license applies to specific works.
+- [x] Serves as a handy reference if you need to find the original code again.
+
 ## Usage
 
 Just copy the appropriate files into your project, either into the main directory, or in a directory called `licenses` (or something similar).
@@ -13,12 +19,6 @@ Just copy the appropriate files into your project, either into the main director
 For example, if you use Bootstrap in your projects, you are supposed to include the MIT License from Bootstrap. In this case, you would copy the file `LICENSE-BOOTSTRAP.txt` to your project.
 
 If you use work from multiple MIT Licensed projects, just copy the appropriate files into your project, and you are covered. Since the names of these files don't conflict with each other, you don't have to worry about accidentally overwriting another file.
-
-## Purpose
-
-- [x] Make is easy to comply with MIT licenses.
-- [x] Make it clear that the MIT license applies to specific works.
-- [x] Serves as a handy reference if you need to find the original code again.
 
 ## Features
 

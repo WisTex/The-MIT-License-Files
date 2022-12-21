@@ -1,6 +1,6 @@
 Prism JS
 
-This software contains files, code, and documentation from Prism JS (Lea Verou)
+This software contains files, code, and/or documentation from Prism JS (Lea Verou)
 whose official website is located at: https://prismjs.com
 
 As per the license, anyone can modify and reuse the software

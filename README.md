@@ -28,7 +28,7 @@ If you use work from multiple MIT Licensed projects, just copy the appropriate f
 - [x] The name of the software the license applies to is repeated, on purpose, for maximum clarity.
 - [x] We don't use the generic version of the MIT License. We copy and pasted their exact version.
 - [x] They are written in text format to allow users on any system to view it.
-- [x] They all have a `.txt` exension so it can easily be opened on a variety of operating systems, some of which use extensions to identify file types.
+- [x] They all have a `.txt` extension so it can easily be opened on a variety of operating systems, some of which use extensions to identify file types.
 
 ## Default format:
 
@@ -36,8 +36,10 @@ We use the following format for most of the licenses, although some are slightly
 
 > {name of the licensed software}
 > 
-> This software contains files, code, and/or documentation from {author}
-> whose official website is located at: {website}
+> This software contains files, code, and/or documentation from {author or name of software}
+> whose official website is located at: 
+>
+> {website}
 > 
 > As per the license, anyone can modify and reuse {name of software} 
 > subject to the terms of the license. 

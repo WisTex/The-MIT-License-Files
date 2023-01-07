@@ -1,7 +1,9 @@
 Prism JS
 
 This software contains files, code, and/or documentation from Prism JS
-whose official website is located at: https://prismjs.com
+whose official website is located at: 
+
+https://prismjs.com
 
 As per the license, anyone can modify and reuse Prism JS
 subject to the terms of the license. 

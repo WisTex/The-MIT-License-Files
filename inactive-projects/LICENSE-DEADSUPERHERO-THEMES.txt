@@ -1,7 +1,9 @@
 DeadSuperHero Hubzilla Themes
 
 This software contains files, code, and/or documentation from DeadSuperHero
-whose repository is located at: https://github.com/DeadSuperHero/hubzilla-themes
+whose repository is located at: 
+
+https://github.com/DeadSuperHero/hubzilla-themes
 
 As per the license, anyone can modify and reuse DeadSuperHero Hubzilla Themes 
 subject to the terms of the license. 

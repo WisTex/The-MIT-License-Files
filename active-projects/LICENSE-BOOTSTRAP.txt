@@ -1,4 +1,5 @@
 Bootstrap
+---------
 
 This software contains files and/or code from Bootstrap
 whose official website is located at: 

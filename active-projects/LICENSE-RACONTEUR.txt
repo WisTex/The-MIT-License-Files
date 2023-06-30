@@ -1,7 +1,8 @@
 Raconteur
+---------
 
-This software contains files, code, and/or documentation from the Neuhub project
-whose official website is located at: 
+This software contains files, code, and/or documentation from the Raconteur 
+project whose official website is located at: 
 
 https://wistex.org
 
